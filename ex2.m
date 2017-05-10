@@ -16,6 +16,7 @@
 %  or any other files other than those mentioned above.
 %
 % Just trying Github
+% Another test
 
 %% Initialization
 clear ; close all; clc
